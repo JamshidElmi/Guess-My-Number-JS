@@ -4,6 +4,7 @@
 *  @created   2022-07-10 12:53:35
 *  @modified  2022-07-10 12:53:35
 *  @tutorial  https://www.youtube.com/c/codingplay
+*  @demo      https://JamshidElmi.github.io/Guess-My-Number-JS
 */
 'use strict';
 
